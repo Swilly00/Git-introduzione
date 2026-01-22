@@ -1,3 +1,4 @@
 Nome: Willy
-Cognome: 
+Cognome: branchi
+Anni: 19 
 Giochi Preferiti: Fallout, Satisfactory
